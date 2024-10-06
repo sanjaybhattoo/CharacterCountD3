@@ -26,11 +26,8 @@ This project visualizes the frequency of characters in a given text using two in
 
 ## Screenshots
 
-1. **Treemap Visualization**  
-   ![Treemap](./images/treemap_example.png)
-
-2. **Sankey Diagram**  
-   ![Sankey](./images/sankey_example.png)
+1. **Example**  
+   ![Treemap](./Capture.PNG)
 
 ## Setup
 
