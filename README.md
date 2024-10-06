@@ -29,6 +29,12 @@ This project visualizes the frequency of characters in a given text using two in
 1. **Example**  
    ![Treemap](./Capture.PNG)
 
+2. **Example**  
+   ![Treemap](./Screentshot1.png)
+
+3. **Hover**  
+   ![Treemap](./Screenshot2.png)
+
 ## Setup
 
 1. Clone the repository:
